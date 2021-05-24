@@ -23,4 +23,8 @@ The Compounding Compound Cliquet product is also an option on a cliquet option i
 Cliquets are volatility-sensitive products. A good volatility model not only has to be able to calibrate to the spot implied volatilities but also to the forward start options.
 
 Reference:
-https://finpricing.com/lib/EqCliquet.html
+
+https://finpricing.com/lib/EqVariance.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY
+
