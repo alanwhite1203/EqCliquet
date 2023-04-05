@@ -24,7 +24,5 @@ Cliquets are volatility-sensitive products. A good volatility model not only has
 
 Reference:
 
-https://finpricing.com/lib/EqVariance.html
-
-https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY
+https://finpricing.com/lib/IrCurve.html
 
